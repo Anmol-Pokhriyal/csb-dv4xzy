@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/css/main.dc4bfb33.chunk.css",
+    "main.js": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/main.c32a4069.chunk.js",
+    "main.js.map": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/main.c32a4069.chunk.js.map",
+    "runtime-main.js": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/runtime-main.05cc917b.js",
+    "runtime-main.js.map": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/runtime-main.05cc917b.js.map",
+    "static/js/2.e40416ed.chunk.js": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/2.e40416ed.chunk.js",
+    "static/js/2.e40416ed.chunk.js.map": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/2.e40416ed.chunk.js.map",
+    "index.html": "https://anmol-pokhriyal.github.io/csb-dv4xzy/index.html",
+    "static/css/main.dc4bfb33.chunk.css.map": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/css/main.dc4bfb33.chunk.css.map",
+    "static/js/2.e40416ed.chunk.js.LICENSE.txt": "https://anmol-pokhriyal.github.io/csb-dv4xzy/static/js/2.e40416ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05cc917b.js",
+    "static/js/2.e40416ed.chunk.js",
+    "static/css/main.dc4bfb33.chunk.css",
+    "static/js/main.c32a4069.chunk.js"
+  ]
+}

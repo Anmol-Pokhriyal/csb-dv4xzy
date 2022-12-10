@@ -1,0 +1,2 @@
+.container{display:flex;flex-direction:column;font-family:"Calibri";justify-content:center;padding:2rem 5rem}table{border-spacing:0;border:1px solid #d1cccc}tr:last-child td{border-bottom:0}td,th{margin:0;padding:.5rem;border-bottom:1px solid #d1cccc;border-right:1px solid #d1cccc}td:last-child,th:last-child{border-right:0}tr:nth-child(odd){background:#f3f3f3;color:#000}tr:nth-child(2n){background:#fff;color:#000}th.desc{border-bottom:5px solid #88f}th.asc{border-top:5px solid orange}
+/*# sourceMappingURL=main.dc4bfb33.chunk.css.map */
